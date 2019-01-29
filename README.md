@@ -1,0 +1,2 @@
+# sample
+opencv sample program
